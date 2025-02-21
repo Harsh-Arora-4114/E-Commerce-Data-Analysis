@@ -1,0 +1,1 @@
+This project defines a relational database schema for an e-commerce platform. It includes tables for customers, suppliers, products, orders, and order details. The database supports essential operations such as managing product inventory, tracking orders, and analyzing sales trends.
