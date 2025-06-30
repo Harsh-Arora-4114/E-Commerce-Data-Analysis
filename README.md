@@ -1,4 +1,4 @@
-# E-Commerce Database
+# E-Commerce
 
 ## Overview
 This SQL script sets up a relational database for an e-commerce platform. It includes tables for customers, suppliers, products, orders, and order details, along with queries to analyze sales, top-selling products, and inventory management.
