@@ -51,7 +51,8 @@ WHERE Stock > 2;
 ## Contributions
 Feel free to fork this repository, submit issues, or make pull requests.
 
+## License
+This project is licensed under the MIT License.
+
 ## Author
 Developed by Harsh Arora
-
-
